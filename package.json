@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "gitlog": "^4.0.3",
+    "jquery": "^3.5.1",
+    "nodegit": "^0.27.0",
+    "popper.js": "^1.16.1"
+  }
+}
